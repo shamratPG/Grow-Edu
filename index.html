@@ -25,6 +25,8 @@
 
     <header class="container">
 
+        <!-- give shadow  -->
+
         <!-- Nav Bar  Starts -->
         <nav class="navbar navbar-expand-lg mt-4">
             <div class="container">
@@ -269,13 +271,13 @@
             </div>
 
             <div id="view" class="text-center">
-                <button class="btn btn-lg btn-outline-primary px-4">View All</button>
+                <button class="btn btn-lg btn-outline-primary px-4 shadow">View All</button>
             </div>
             <!-- Courses Cards Ends-->
         </section>
 
         <!-- Explore E-Learning Section -->
-        <section id="e-learning" class="sec-margin">
+        <section id="e-learning" class="sec-margin shadow">
             <div class="card mb-3">
                 <div class="row g-0">
                     <div class="col-md-5">
@@ -284,13 +286,13 @@
                     <div class="col-md-7">
                         <div class="h-100 p-5 d-flex flex-column justify-content-center">
                             <h2 class="fs-1">Explore The E-Learning Institute</h2>
-                            <p class="card-text
+                            <p class="card-text text-secondary
                             ">Frax stops the fraction struggle through an adaptive, game-based system
                                 that helps grade 3+ students build the skills, knowledge, and understanding of fractions
                                 for ongoing success in higher mathematics.
 
                             </p>
-                            <p>
+                            <p class="text-secondary">
                                 We are an education technology company creating seriously fun solutions
                                 for the most critical challenges in K-12 STEM learning.
                             </p>
@@ -320,7 +322,7 @@
 
         <!-- Ready To Join Section -->
 
-        <section class="bg-primary rounded p-5 text-light d-flex justify-content-between sec-margin">
+        <section class="bg-primary rounded p-5 text-light d-flex justify-content-between sec-margin shadow">
             <div class="w-50">
                 <h2>Ready to Join?</h2>
                 <p>Join our exciting courses and explore and update your life in ways you never imagined. Just click the
@@ -328,21 +330,11 @@
             </div>
             <div class="d-flex align-items-center justify-content-between pe-5">
 
-                <!-- <button class="btn btn-lg btn-light text-primary fw-semibold">Register Now</button> -->
-
                 <button type="button" class="btn btn-lg btn-light text-primary fw-semibold" data-bs-toggle="modal"
                     data-bs-target="#exampleModal" data-bs-whatever="@mdo">Register Now</button>
             </div>
 
             <!-- Modal Section -->
-
-
-
-            <!-- <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"
-                data-bs-whatever="@fat">Open modal for @fat</button>
-            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"
-                data-bs-whatever="@getbootstrap">Open modal for @getbootstrap</button> -->
-
             <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel"
                 aria-hidden="true">
                 <div class="modal-dialog text-dark">
@@ -372,6 +364,65 @@
             </div>
 
         </section>
+
+        <!-- Meet Students Section starts-->
+
+        <section class="sec-margin">
+            <div class="w-50">
+                <h2>Meet Successfull Students</h2>
+                <p class="my-3 text-secondary">
+                    Our course is designed so that you are able to get success in your field. Here are some of our
+                    successfull students and their experiences on our courses.
+                </p>
+            </div>
+
+            <div class="row my-5">
+                <div class="container">
+                    <div class="row g-3">
+                        <div class="col-3">
+                            <img class="img-fluid" src="images/student/student-1.png" alt="">
+                            <div class="shadow rounded">
+                                <div class="p-2">
+                                    <h5>Kit Harington</h5>
+                                    <p class="text-secondary">UI/UX Designer</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <img class="img-fluid" src="images/student/student-2.png" alt="">
+                            <div class="shadow rounded">
+                                <div class="p-2">
+                                    <h5>Emilia Clark</h5>
+                                    <p class="text-secondary">Motion Designer</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <img class="img-fluid" src="images/student/student-3.png" alt="">
+                            <div class="shadow rounded">
+                                <div class="p-2">
+                                    <h5>Peter Dinklish</h5>
+                                    <p class="text-secondary">Graphics Designer</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-3">
+                            <img class="img-fluid" src="images/student/student-4.png" alt="">
+                            <div class="shadow rounded">
+                                <div class="p-2">
+                                    <h5>Sophie Turner</h5>
+                                    <p class="text-secondary">Web Developer</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+        </section>
+
+        <!-- Meet Students Section ends-->
+
 
     </main>
 
