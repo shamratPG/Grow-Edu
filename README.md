@@ -16,7 +16,7 @@ This QR Code Component was a simple fun project. I used CSS variables, flexbox a
 
 ### Screenshot
 
-![](images/screenshot.png)
+![](images/Grow-Edu.png)
 
 
 ### Links
