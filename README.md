@@ -1,4 +1,4 @@
-# Grow-Edu
+# Grow Edu
 This is a demo landing page project for an imaginary online educational institute named Grow Edu. This is my Third Assignment on Programming Hero
 
 ## Table of contents
