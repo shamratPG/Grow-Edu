@@ -12,7 +12,7 @@ This is a demo landing page project for an imaginary online educational institut
 
 
 ## Overview
-This QR Code Component was a simple fun project. I used CSS variables, flexbox and some common CSS properties.
+This is my first full project with CSS framework Bootstrap. 
 
 ### Screenshot
 
