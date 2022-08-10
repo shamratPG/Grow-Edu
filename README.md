@@ -28,12 +28,12 @@ This QR Code Component was a simple fun project. I used CSS variables, flexbox a
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS 3 custom properties
 - Bootstrap 5
 
 ## Author
 
 - Website - [Md. Shamrat Hossain](https://github.com/shamratPG)
 - Twitter - [@shamratpg](https://twitter.com/shamratpg)
-- LinkedIN - [Md. Shamrat Hossain](https://www.linkedin.com/in/md-shamrat-hossain/)
+- LinkedIn - [Md. Shamrat Hossain](https://www.linkedin.com/in/md-shamrat-hossain/)
 
