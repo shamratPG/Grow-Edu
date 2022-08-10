@@ -21,8 +21,8 @@ This QR Code Component was a simple fun project. I used CSS variables, flexbox a
 
 ### Links
 
-- Solution URL: [Code Link](https://github.com/shamratPG/Grow-Edu)
-- Live Site URL: [Live Site](https://shamratpg.github.io/Grow-Edu/)
+- Solution URL: [Code Link](https://github.com/shamratPG/grow-edu)
+- Live Site URL: [Live Site](https://shamratpg.github.io/grow-edu/)
 
 
 ### Built with
